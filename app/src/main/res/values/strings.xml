@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_04</string>
+    <string name="cb_apple">Apple</string>
+    <string name="cb_strawberry">Strawberry</string>
+    <string name="cb_blueberry">Blueberry</string>
+    <string name="cb_potatoes">Potato</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="rb_toast">Toast.Class</string>
+    <string name="rb_dialogWindow">Dialog window</string>
+</resources>
